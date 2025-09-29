@@ -1,6 +1,6 @@
 ## How to use the app
-Clone the repo, open it in Android Studio, and press Run to launch on an emulator or device.
-
+1. Clone the repo, open it in Android Studio, and press Run to launch on an emulator or device.
+2. Scroll down the contact list, and when it pass 10 items a button will appear. When clicked it will scroll back to the first item.
 ## Explanation
 App demonstrates how to build a contact list with alphabetical grouping in Jetpack Compose using `LazyColumn` and `StickyHeader`.
 - Contact Generation: The app generates 50 randome sample contacts and sorts them alphabetically.
